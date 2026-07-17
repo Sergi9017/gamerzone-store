@@ -1,10 +1,10 @@
 # GamerZone Store
 
-Landing Page responsive para una tienda de accesorios gamer para el final de IHC
+Landing Page de GamerZone, una tienda de accesorios gamer. Para el examen final de IHC
 
 ## Descripción
 
-GamerZone Store es una página web de una sola vista (Landing Page) que presenta una tienda de periféricos y accesorios para gamers. El proyecto está diseñado con una estructura moderna y adaptable a distintos tamaños de pantalla.
+La Landing page de GamerZone Store es una página web que presenta una tienda de periféricos y accesorios para gamers.
 
 ## Autor
 
